@@ -2,6 +2,7 @@
 This document provides an overview of the Pharmacy Management System code and its functionalities.
 
 ## Overview
+<img width="846" alt="Screenshot 2024-10-09 at 3 23 28 AM" src="https://github.com/user-attachments/assets/4b1a8ec2-8b49-440c-a70f-8b09e0a1efba">
 The Pharmacy Management System is a Python application that helps manage pharmaceutical data. It allows you to add, update, delete, and search for medicine information, including details like reference number, company name, medicine type, and more. The application uses the tkinter library for the graphical user interface (GUI) and MySQL as the database.
 
 ## Dependencies
